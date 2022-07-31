@@ -1,0 +1,7 @@
+train: ./raw_data/train
+
+optimizer: AdamW
+batch_size: 10
+picture_spatial_size: 640.1
+
+learning_rate: 0.97
